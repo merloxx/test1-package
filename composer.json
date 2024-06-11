@@ -7,6 +7,8 @@
         }
     },
     "require": {
-        "php": ">=8.1"
-    }
+        "php": ">=8.1",
+        "merloxx/test2-package": "dev-master"
+    },
+    "minimum-stability": "dev"
 }
