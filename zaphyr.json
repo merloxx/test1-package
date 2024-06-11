@@ -1,0 +1,21 @@
+{
+  "config": "config/test1-package.yaml",
+  "packages": {
+    "all": [
+      "Merloxx\\Test1Package\\AllPackage"
+    ],
+    "production": [
+      "Merloxx\\Test1Package\\ProductionPackage"
+    ],
+    "development": [
+      "Merloxx\\Test1Package\\DevelopmentPackage"
+    ],
+    "testing": [
+      "Merloxx\\Test1Package\\TestingPackage"
+    ]
+  },
+  "env": {
+    "TEST1_FOO": "foo",
+    "TEST1_BAR": "bar"
+  }
+}
