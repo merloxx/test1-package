@@ -2,7 +2,8 @@
   "config": "config/test1-package.yaml",
   "packages": {
     "all": [
-      "Merloxx\\Test1Package\\AllPackage"
+      "Merloxx\\Test1Package\\AllPackage",
+      "Merloxx\\Test1Package\\SecondAllPackage"
     ],
     "production": [
       "Merloxx\\Test1Package\\ProductionPackage"
