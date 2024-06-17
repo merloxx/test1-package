@@ -17,6 +17,7 @@
   },
   "env": {
     "TEST1_FOO": "foo",
-    "TEST1_BAR": "bar"
+    "TEST1_BAR": "bar",
+    "TEST1_BAZ": "baz"
   }
 }
